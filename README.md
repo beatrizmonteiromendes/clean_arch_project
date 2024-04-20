@@ -6,7 +6,27 @@ A new Flutter project.
 
 <img width="866" alt="image" src="https://github.com/beatrizmonteiromendes/clean_arch_project/assets/78861681/8ccf67a2-c2f9-47d0-9222-5d0313b824f9">
 
+## Features
+This application has the following features
 
+A list of cities for upcoming concerts
+Search functionality (Find by city name)
+Offline support using Hive (works with airplane mode)
+Cross-platform (tested on Pixel 6a, iPhone 15 Pro and iPad Pro)
+Support for multiple resolutions and sizes (tested on Pixel 4 and Pixel C Tab)
+Shows current weather info for each city
+Shows the next 5 days forecast for each city
+
+## Configuring Environment Variables
+This project utilizes environment variables to manage configuration settings. I use Envied to handle environment variable management.
+
+To set up the required environment variables for this project, please refer to the Envied documentation:
+
+Visit the Envied package documentation on pub.dev. Follow the instructions provided in the documentation to install and configure Envied for your development environment. Envied simplifies the management of environment variables and ensures consistent and secure handling of sensitive information. Make sure to set the required environment variables as specified in the project's configuration files.
+
+For more information on how to work with environment variables in this project, please consult the documentation provided by Envied.
+
+NOTE: You need to set up Envied before running the project else you'll get errors.
 
 
 This project is a starting point for a Flutter application.
