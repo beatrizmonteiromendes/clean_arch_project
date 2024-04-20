@@ -28,6 +28,18 @@ For more information on how to work with environment variables in this project, 
 
 NOTE: You need to set up Envied before running the project else you'll get errors.
 
+## Getting Started
+1. Clone the Repository: Open your terminal and clone 
+
+2. Navigate to the Project Folder: Change your working directory to the project folder
+
+3. Install the Dependencies: Install the project's dependencies using pub (Dart Package Manager):
+
+$ flutter pub get
+
+4. Run the Application: 
+
+$ flutter run
 
 This project is a starting point for a Flutter application.
 
