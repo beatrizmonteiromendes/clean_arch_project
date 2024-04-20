@@ -1,8 +1,13 @@
-# clean_arch_rock_n_roll
+# Concerts Project
 
 A new Flutter project.
 
-## Getting Started
+## Clean Archicture
+
+<img width="866" alt="image" src="https://github.com/beatrizmonteiromendes/clean_arch_project/assets/78861681/8ccf67a2-c2f9-47d0-9222-5d0313b824f9">
+
+
+
 
 This project is a starting point for a Flutter application.
 
