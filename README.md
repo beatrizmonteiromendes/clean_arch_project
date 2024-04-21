@@ -1,6 +1,13 @@
 # Concerts Project
 
-A new Flutter project.
+A Flutter project to track weather in a fashion manner for a rock'n'roll band staff.
+
+The band staff needs to track the current weather and the forecast for the 5 next days of the main cities where shows of the tour are taking place:
+
+Silverstone, UK
+São Paulo, Brazil
+Melbourne, Australia
+Monte Carlo, Monaco
 
 ## Clean Archicture
 
